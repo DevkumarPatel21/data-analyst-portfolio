@@ -11,7 +11,7 @@ Tips: For data science projects with python, I would recomend you to install num
 - [Portfolio Projects](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#portfolio-projects)
   - [Projects based on Marketing Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#projects-based-on-marketing-analysis)
     - [Churn Prediction Analysis on Telecommunication](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#churn-prediction-analysis-on-telecommunication)
-    - [Customer Segmentation on App Usage](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#customer-segmentation-on-app-usage)    
+    - [Customer Segmentation Sales](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#customer-segmentation-on-app-usage)    
     - [Mobile Apps Behvioural Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#mobile-apps-behvioural-analysis)
     - [Twitter Airline Tweets Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#twitter-airline-tweets-sentimental-analysis)
     - [Amazon Phone Review Sentimental Analysis](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/README.md#amazon-phone-review-sentimental-analysis)
@@ -40,7 +40,7 @@ Below is the numbers of project which I have done and there link of the project 
 
 **Result:** The feature in which company has to target to reduce the churn and based on that the necessaru recommendation is given to company.
 
-## Customer Segmentation on App Usage
+## Customer Segmentation on Sales
 **Code:** [Project_Customer_Segmentation.ipynb](https://github.com/DevkumarPatel21/data-analyst-portfolio/blob/main/Marketing_Analysis/Customer_segmentation/Project_Customer_Segmentation.ipynb)
 
 **Description:** The dataset contains 541909 instances with 8 feature of the sales dataset. The dataset is above the different groups of customer who used to purchased the product or services. So here in this project I have perform segmentation on different group of people using RFM and I can able to segement those customer who are loyal, who are more likely to stop the services. The detailed explanation is given in the python file.
