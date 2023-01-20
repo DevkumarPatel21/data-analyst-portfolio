@@ -86,8 +86,7 @@ We can see based on the line chart that based on the baseline given, work should
 -> Based on the cost status report, we can see that currently $139,415 has been used up in the project and we are $2585 under budget but are project hasn’t finished completely and an estimated $20,500 are still left.
 
 # Upcoming tasks for the project
-[image](https://user-images.githubusercontent.com/111020984/213756988-41efa518-196c-4a4c-a6e0-2506398bcc0f.png)
-
+![image](https://user-images.githubusercontent.com/111020984/213758633-2f601ff3-9b2a-4e94-acc8-53addbfa0d75.png)
 Here based on the work burndown chart we can see the effort of hours that remains in the project.
 
 Up to now 184 hours of work has been completed and 24 hours of work effort remains.
@@ -95,7 +94,7 @@ Up to now 184 hours of work has been completed and 24 hours of work effort remai
 Again, based on the charts created we can see we are behind schedule based on work remaining to be done.
 
 # EARNED VALUE REPORT
-![image](https://user-images.githubusercontent.com/111020984/213757201-f99bdcbb-190f-4a3c-9716-623ed7472685.png)
+![image](https://user-images.githubusercontent.com/111020984/213758830-a1abb1da-122d-462f-9ba3-4749e5117d04.png)
 Based on the earned value report we can draw the following conclusions:
  Here our estimated actual cost at completion is $138,978.85 and our total allocated budget is $142,000. Even though the system here is predicting us to stay under budget till late completion, it cannot be guaranteed that our actual cost will be under budget at completion.
 
@@ -104,7 +103,7 @@ Our actual cost currently is lower than the earned value, meaning that we are cu
 Looking at the variance over time chart, we can see that during the middle of our project there were certain tasks which went over budge due to which we have a negative cost variance, and our schedule variance is also negative completely because we couldn’t finish certain tasks on time to meet the end date.
 
 # Schedule and cost variance over time
-![image](https://user-images.githubusercontent.com/111020984/213757430-99c1dcbc-002b-483f-9bbb-61cf72481e2f.png)
+![image](https://user-images.githubusercontent.com/111020984/213758944-bc55247e-2947-47f9-8797-3bb5bfd6071f.png)
 
 Based on the SPI and CPI spread we can see that we went over budget during the middle of our project but then came back on track during the end, but still we haven’t finished our project.
 
